@@ -5,18 +5,31 @@
 2 Лабораторная работа №2. Базовая настройка IP-телефонов в среде Cisco Packet Tracer
 
 <img width="449" height="329" alt="image" src="https://github.com/user-attachments/assets/60d0fa26-723e-47e5-8fe9-09b27b3cef3e" />
+
 Собрали топологию
+
 <img width="404" height="228" alt="image" src="https://github.com/user-attachments/assets/1ebd6cf3-15e6-4000-84a1-8821e4ec1565" />
+
 Подключили телефон
+
 <img width="624" height="249" alt="image" src="https://github.com/user-attachments/assets/b5590373-f743-42c2-94e7-2cfc28fc1d77" />
+
 Настройка fa0/0 на CMERouter
+
 <img width="568" height="205" alt="image" src="https://github.com/user-attachments/assets/7f8d5731-80fc-4dd9-9ded-249c5432ab98" />
+
 Настройка dhcp и callmanager express
+
 <img width="402" height="82" alt="image" src="https://github.com/user-attachments/assets/58ad3d20-7c94-4491-9a28-9d09c8408bfe" />
+
 Настройка коммутатора
+
 <img width="624" height="240" alt="image" src="https://github.com/user-attachments/assets/85ea8041-3bf2-4011-a56a-a1e0fe1eaf77" />
+
 Раздача номеров телефонам
+
 <img width="616" height="377" alt="image" src="https://github.com/user-attachments/assets/8d897ba0-712d-45be-b7cf-814789ee725f" />
+
 Все работает
 
 3 Лабораторная работа №3. Настройка конфигурации Cisco CallManager Express на маршрутизаторе Cisco 2811
