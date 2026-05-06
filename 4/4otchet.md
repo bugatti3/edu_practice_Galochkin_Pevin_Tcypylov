@@ -86,49 +86,57 @@ SwitchA
 
 <img width="806" height="411" alt="image" src="https://github.com/user-attachments/assets/aed9d3ad-57a1-47a3-b32c-8d8b75c0a950" />
 
-<img width="246" height="33" alt="image" src="https://github.com/user-attachments/assets/8d6623f3-fa14-470c-aed8-652256327e57" />
+Топология
 
+<img width="246" height="33" alt="image" src="https://github.com/user-attachments/assets/8d6623f3-fa14-470c-aed8-652256327e57" />
 <img width="233" height="30" alt="image" src="https://github.com/user-attachments/assets/32e647f8-8d68-4091-83de-58fbfc4d7993" />
 
-<img width="612" height="124" alt="image" src="https://github.com/user-attachments/assets/dc79caa9-52b2-4899-8b3a-a8b2cbfa9fa0" />
+хостнеймы для роутеров
 
+<img width="612" height="124" alt="image" src="https://github.com/user-attachments/assets/dc79caa9-52b2-4899-8b3a-a8b2cbfa9fa0" />
 <img width="412" height="62" alt="image" src="https://github.com/user-attachments/assets/52cc29b0-f6f6-41fd-bfb6-54cbf71f5124" />
 
-<img width="442" height="116" alt="image" src="https://github.com/user-attachments/assets/870e3092-ca8d-4a18-9973-ebf4610885c4" />
+IP адреса для роутеров
 
+<img width="442" height="116" alt="image" src="https://github.com/user-attachments/assets/870e3092-ca8d-4a18-9973-ebf4610885c4" />
 <img width="453" height="114" alt="image" src="https://github.com/user-attachments/assets/9bcf5c7c-a13f-4165-91e9-064ef3e37a29" />
 
-<img width="402" height="60" alt="image" src="https://github.com/user-attachments/assets/449b86ff-6a0a-4ce4-af6c-628e34fef4b8" />
+Настройка интерфейса s0/3/0 на RouterA, B
 
+<img width="402" height="60" alt="image" src="https://github.com/user-attachments/assets/449b86ff-6a0a-4ce4-af6c-628e34fef4b8" />
 <img width="411" height="74" alt="image" src="https://github.com/user-attachments/assets/1a54d361-1988-464a-8231-9a4173940daf" />
 
-<img width="318" height="60" alt="image" src="https://github.com/user-attachments/assets/3ca27999-39e9-495a-8392-7a9a72e51d78" />
+Dhcp серверы
 
+<img width="318" height="60" alt="image" src="https://github.com/user-attachments/assets/3ca27999-39e9-495a-8392-7a9a72e51d78" />
 <img width="308" height="59" alt="image" src="https://github.com/user-attachments/assets/de47373c-c858-4b65-b671-cc50696f1f26" />
 
-<img width="478" height="84" alt="image" src="https://github.com/user-attachments/assets/98420c05-1434-4c61-9ff5-f705735cabef" />
+Настройка динамической маршрутизации на основе протокола RIP
 
+<img width="478" height="84" alt="image" src="https://github.com/user-attachments/assets/98420c05-1434-4c61-9ff5-f705735cabef" />
 <img width="456" height="88" alt="image" src="https://github.com/user-attachments/assets/2425bda4-330b-454e-bce8-b1dcb4be53c2" />
 
-<img width="226" height="33" alt="image" src="https://github.com/user-attachments/assets/4ae048c8-aa3d-497a-9866-5d00a87fbe6f" />
-
-<img width="236" height="37" alt="image" src="https://github.com/user-attachments/assets/64647832-5caa-4b67-9996-4a28941de546" />
+CallManager Express
 
 <img width="364" height="49" alt="image" src="https://github.com/user-attachments/assets/41a8e324-e11e-4172-a2d5-2db0b8e7afed" />
-
 <img width="352" height="47" alt="image" src="https://github.com/user-attachments/assets/58430933-d0ca-4b1f-80f2-6e29ee6603d4" />
 
-<img width="622" height="254" alt="image" src="https://github.com/user-attachments/assets/7e16a88b-f02b-48e8-8d4b-4be1a3d71ab3" />
+Назначение диапазонов портов на Свитч A и B
 
+<img width="622" height="254" alt="image" src="https://github.com/user-attachments/assets/7e16a88b-f02b-48e8-8d4b-4be1a3d71ab3" />
 <img width="627" height="254" alt="image" src="https://github.com/user-attachments/assets/3cc38bd2-43ab-4d18-b296-b70195631fa4" />
 
-<img width="385" height="45" alt="image" src="https://github.com/user-attachments/assets/231cdc45-6777-4d05-9f71-0ef76e0d9ee0" />
+Раздача номеров
 
+<img width="385" height="45" alt="image" src="https://github.com/user-attachments/assets/231cdc45-6777-4d05-9f71-0ef76e0d9ee0" />
 <img width="398" height="48" alt="image" src="https://github.com/user-attachments/assets/8ba91b99-b27f-457e-ad0e-90bae72e2084" />
 
-<img width="384" height="184" alt="image" src="https://github.com/user-attachments/assets/aaff7f96-f818-4af1-bccb-4564917f1dea" />
+Настройка IP-телефонов
 
+<img width="384" height="184" alt="image" src="https://github.com/user-attachments/assets/aaff7f96-f818-4af1-bccb-4564917f1dea" />
 <img width="692" height="264" alt="image" src="https://github.com/user-attachments/assets/408f470d-d7c7-48b0-ab71-9b1839363480" />
+
+Все работает
 
 8 Лабораторная работа №8. Построение сети IP-телефонии между удаленными маршрутизаторами
 
