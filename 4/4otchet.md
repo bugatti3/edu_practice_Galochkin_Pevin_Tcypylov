@@ -2,14 +2,6 @@
 Выполнили: Цыпылов Ярослав, Галочкин Константин, Певин Александр 
 Группа:9СА-321
 
-1 Лабораторная работа №1. Знакомство со средой Cisco Packet Tracer
-
-<img width="624" height="554" alt="image" src="https://github.com/user-attachments/assets/88b93358-7481-4fbc-8065-15ae59279fa2" />
-
-<img width="624" height="258" alt="image" src="https://github.com/user-attachments/assets/a3ed4419-7d4d-4ed6-a40b-0d75882e313f" />
-
-<img width="441" height="386" alt="image" src="https://github.com/user-attachments/assets/44a20625-0c75-4e77-95fe-7a2d369e1ed3" />
-
 2 Лабораторная работа №2. Базовая настройка IP-телефонов в среде Cisco Packet Tracer
 
 <img width="449" height="329" alt="image" src="https://github.com/user-attachments/assets/60d0fa26-723e-47e5-8fe9-09b27b3cef3e" />
