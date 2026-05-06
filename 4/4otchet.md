@@ -36,17 +36,31 @@
 
 <img width="416" height="310" alt="image" src="https://github.com/user-attachments/assets/286330a7-7eb6-406e-b324-50428630e107" />
 
+Топология
+
 <img width="463" height="287" alt="image" src="https://github.com/user-attachments/assets/358efee5-7aba-48b1-a933-d9c14df41d7f" />
+
+Пароли
 
 <img width="612" height="229" alt="image" src="https://github.com/user-attachments/assets/de5c1993-86d1-415f-a9d1-66425bc78c45" />
 
+Конфигурация fa0/0
+
 <img width="447" height="137" alt="image" src="https://github.com/user-attachments/assets/a0c054cb-ca31-4e38-a7ef-a942f0667e3d" />
+
+Dhcp сервер
 
 <img width="493" height="153" alt="image" src="https://github.com/user-attachments/assets/4154fd92-f63f-40eb-94e6-f74b79a60e49" />
 
+Настройка Callmanegr express
+
 <img width="357" height="55" alt="image" src="https://github.com/user-attachments/assets/ab50f9f5-4952-492d-aad8-9f10010ba603" />
 
+SwitchA
+
 <img width="624" height="397" alt="image" src="https://github.com/user-attachments/assets/04f86cd9-22c0-4849-ba6a-bbbbb6be4cd4" />
+
+Раздача номеров
 
 4 Лабораторная работа №4. Конфигурация VOIP в среде Cisco Packet Tracer
 
@@ -54,11 +68,19 @@
 
 <img width="390" height="162" alt="image" src="https://github.com/user-attachments/assets/ca3b366c-4ad0-4d62-8ab4-73d3717da3b2" />
 
+Создание и настройка VLAN
+
 <img width="624" height="664" alt="image" src="https://github.com/user-attachments/assets/50743518-af9b-47c2-ac5f-6bf6a43b09ee" />
+
+Включаем fa0/0 и создаем лог. подинтерфейс для vlan 10, 20, 99
 
 <img width="606" height="283" alt="image" src="https://github.com/user-attachments/assets/3d347b0c-025b-4ac3-bed0-a0a60e29634f" />
 
+Настройка dhcp для передачи голоса
+
 <img width="419" height="450" alt="image" src="https://github.com/user-attachments/assets/8fa43fbc-cb66-4f54-9dd8-79f0b4d304c6" />
+
+настройка айпи телеофнов
 
 7 Лабораторная работа №7. Построение сети IP-телефонии между удаленными маршрутизаторами в среде Cisco Packet Tracer
 
