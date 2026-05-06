@@ -142,43 +142,61 @@ CallManager Express
 
 <img width="1541" height="966" alt="image" src="https://github.com/user-attachments/assets/16ff6fa4-aed6-4b37-9191-96e22262153c" />
 
-<img width="425" height="69" alt="image" src="https://github.com/user-attachments/assets/e4f20d1c-f573-4dc6-8398-f3aa2210cec1" />
-
-<img width="519" height="78" alt="image" src="https://github.com/user-attachments/assets/101d557d-e6a2-4ecc-8adc-e43c69681ea0" />
-
-<img width="437" height="72" alt="image" src="https://github.com/user-attachments/assets/b3c4add3-82d3-4089-8237-64584393b297" />
-
-<img width="479" height="68" alt="image" src="https://github.com/user-attachments/assets/57fb05e8-055a-494c-86d2-72e5821550d0" />
+Топология
 
 <img width="403" height="79" alt="image" src="https://github.com/user-attachments/assets/99bd7d0c-ad89-42f3-a42a-a6a473e13a15" />
 
+Интерфейс s0/3/0
+
 <img width="346" height="66" alt="image" src="https://github.com/user-attachments/assets/647e0e85-fdfc-44fb-846d-01521d9ab4bf" />
+
+Eigrp маршрутизация
 
 <img width="562" height="118" alt="image" src="https://github.com/user-attachments/assets/da97aa81-bcfe-4878-81a1-ab2e5f88c5e3" />
 
+Пинг
+
 <img width="431" height="102" alt="image" src="https://github.com/user-attachments/assets/90814e59-2b5d-4531-ab67-5b8c54634aac" />
+
+FastEthernet на remoterouter
 
 <img width="636" height="186" alt="image" src="https://github.com/user-attachments/assets/036b6655-0e32-45ca-b5fa-9701693e2919" />
 
+Fa на cmerouter
+
 <img width="638" height="114" alt="image" src="https://github.com/user-attachments/assets/04d48306-b188-487d-ba64-df53bb533758" />
+
+Eigrp на remoterouter
 
 <img width="331" height="151" alt="image" src="https://github.com/user-attachments/assets/e89f1f84-4de8-42b2-a417-b73d56162f0b" />
 
+пароли
+
 <img width="651" height="244" alt="image" src="https://github.com/user-attachments/assets/52b506ea-f5ad-4835-b29a-3b2dd15ef5cc" />
 
-<img width="285" height="82" alt="image" src="https://github.com/user-attachments/assets/342aea02-6c2b-4030-b914-3d42682fcbd5" />
+Транковый режим
 
+<img width="285" height="82" alt="image" src="https://github.com/user-attachments/assets/342aea02-6c2b-4030-b914-3d42682fcbd5" />
 <img width="534" height="158" alt="image" src="https://github.com/user-attachments/assets/47c10f57-d6c9-4632-967b-c44e0085dc76" />
 
-<img width="621" height="226" alt="image" src="https://github.com/user-attachments/assets/4e62180d-fa14-4591-b37d-78f38c35dde5" />
+Настройка портов в соответствии vlan
 
+<img width="621" height="226" alt="image" src="https://github.com/user-attachments/assets/4e62180d-fa14-4591-b37d-78f38c35dde5" />
 <img width="550" height="341" alt="image" src="https://github.com/user-attachments/assets/db7518c0-9db4-48b2-8967-32f524b41773" />
+
+Тоже самое на другом свиче
 
 <img width="451" height="156" alt="image" src="https://github.com/user-attachments/assets/21a47fe1-ef58-4972-8f95-9a6f74ed8b88" />
 
+Dhcp сервер cmerouter
+
 <img width="453" height="76" alt="image" src="https://github.com/user-attachments/assets/7db271f5-062b-49f3-966d-1a9d7fddcf31" />
 
+CallManager Express
+
 <img width="635" height="166" alt="image" src="https://github.com/user-attachments/assets/8dd71871-e770-4daa-8313-13166e42ce5e" />
+
+Номера
 
 <img width="458" height="63" alt="image" src="https://github.com/user-attachments/assets/9cfc1423-3646-4cdb-9d80-d272fb779538" />
 
